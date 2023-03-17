@@ -1,1 +1,3 @@
-My second commit
+ALX ZERO DAY
+
+--My first practice--
