@@ -1,3 +1,3 @@
-##ALX ZERO DAY
+#ALX ZERO DAY
 
 ----sample of practce----
