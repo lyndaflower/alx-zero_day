@@ -1,1 +1,3 @@
-“my second commit”
+##ALX ZERO DAY
+
+----sample of practce----
